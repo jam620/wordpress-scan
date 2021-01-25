@@ -1,2 +1,2 @@
 # wordpress-scan
-Scanner de Wordpress Mnual
+Scanner de Wordpress Manual
